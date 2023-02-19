@@ -1,5 +1,5 @@
 Welcome to my GitHub Profile!
 
-:black_nib: College Student\
+📖 College Student\
 💻 Taking Harvard CS50 '23\
 :earth_asia: Philippines
