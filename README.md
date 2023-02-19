@@ -2,6 +2,6 @@ Welcome to my GitHub Profile!
 
 :black_nib: College Student
 
-🇵🇭 Quezon City
+:philippines: Quezon City
 
 💻 CS50 Student
