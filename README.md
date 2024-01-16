@@ -1,4 +1,5 @@
 Welcome to my GitHub Profile!
 
-📖 BSIT Student\ 
+📖 BSIT Student\
+\
 :earth_asia: Philippines
