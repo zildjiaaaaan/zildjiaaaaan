@@ -1,5 +1,4 @@
 Welcome to my GitHub Profile!
 
-📖 BSIT Student\
-💻 Taking Harvard CS50 '23\
+📖 BSIT Student\ 
 :earth_asia: Philippines
